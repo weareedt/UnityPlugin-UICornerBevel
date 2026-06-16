@@ -1,0 +1,19 @@
+{
+  "name": "com.edt.uicornerbevel",
+  "version": "1.0.0",
+  "displayName": "UI Corner Bevel",
+  "description": "Rounds the corners of any uGUI Image or RawImage using an SDF shader. No extra GameObjects, RenderTextures, or mesh changes — just add the component and set a radius.",
+  "unity": "2021.3",
+  "keywords": [
+    "ui",
+    "ugui",
+    "rounded",
+    "corner",
+    "bevel",
+    "sdf"
+  ],
+  "author": {
+    "name": "EDT"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+# Unity-generated artifacts (none should exist inside a clean package, but just in case)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.user
+*.csproj
+*.sln
