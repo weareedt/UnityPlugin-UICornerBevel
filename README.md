@@ -9,7 +9,7 @@ component, set a radius, done.
 ### Option A — Git URL
 **Window → Package Manager → +  → Add package from git URL…** and paste:
 ```
-https://github.com/weareedt/com.edt.uicornerbevel.git
+https://github.com/weareedt/UnityPlugin-UICornerBevel.git
 ```
 Pin a version with `#1.0.0` once you tag releases.
 
@@ -21,7 +21,7 @@ Pin a version with `#1.0.0` once you tag releases.
 ### Option C — manifest entry
 Add to your project's `Packages/manifest.json`:
 ```json
-"com.edt.uicornerbevel": "https://github.com/weareedt/com.edt.uicornerbevel.git#1.0.0"
+"com.edt.uicornerbevel": "https://github.com/weareedt/UnityPlugin-UICornerBevel.git#1.0.0"
 ```
 
 ## Usage
